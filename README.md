@@ -2,7 +2,7 @@
 
 Me llamo Kevin Farukh
 
-- 💻 Javascript, HTML5 y CSS, React, NodeJs, Express, APIs (REST), SQL, MySQL, Sequelize, Git, GitHub.
+- 💻 Javascript, HTML5, CSS, React, NodeJs, Express, APIs (REST), SQL, MySQL, Sequelize, Git y GitHub.
 
 -  🤓 Soy desarrollador web FullStack. Músico profesional. Gestor cultural. Estudios en Liderazgo e Innovación Social. Entre mis logros esta la creación del proyecto educativo y cultural Suite Pombo ganador de convocatorias en IDARTES, MinCultura y la Biblioteca Nacional. Soy un apasionado por los videojuegos y las matemáticas.
 
