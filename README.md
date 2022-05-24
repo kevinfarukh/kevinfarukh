@@ -1,6 +1,4 @@
-### Hola 😄
-
-Me llamo Kevin Farukh
+### Hola, soy Kevin Farukh 😄
 
 - 💻 Javascript, HTML5, CSS, React, NodeJs, Express, APIs (REST), SQL, MySQL, Sequelize, Git y GitHub.
 
